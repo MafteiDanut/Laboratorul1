@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sudo apt-get install -y gparted calibre am schimbat aici
+sudo apt-get install -y valgrind gparted calibre am schimbat aici
 
 sudo groupadd profesori
 sudo groupadd studenti
